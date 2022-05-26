@@ -16,6 +16,6 @@ que após passar por todas as verificações necessárias da aplicação, inseri
 no fim, se a aplicação encontrar alguma nota cadastrada em um formato errado, ela bloqueia o botão de contabilizar e pede para que 
 o usuário procure arrumar a determinada nota </p>
 <div align="left" >
-   <img src="https://user-images.githubusercontent.com/97187822/169890732-de18a503-debb-40ce-ba41-242522e7ba13.gif" width="800px" />
+   <img src="https://user-images.githubusercontent.com/97187822/170565731-f866fbce-d7f4-4bf6-bbec-8906027ab280.gif" width="800px" />
 </div>
 
