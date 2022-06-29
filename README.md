@@ -3,6 +3,7 @@
 </div>
 
 # Projeto contabilidade
+<p> Desktop </p>
 <h3>  Descrição </h3>
 <p> Este projeto foi desenvolvido no intuito de auxiliar o setor de contabilidade de minha empresa para a inserção de notas fiscais,
 nessa aplicação, nós trabalhamos com dois bancos de dados, Firebird e Sql Server, no Firebird contem as notas lançadas de um determinado sistema,
